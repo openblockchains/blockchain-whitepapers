@@ -8,9 +8,10 @@
 
 ## Savedroid
 
+What's Savedroid's Business? A Top Secret Black Box == "Magic" Self-Learning Artificial Intelligence (AI) Big Saving "Gold Mine"
+
 ![](i/trolly-ponzi.png)
 
-What's Savedroid Business? A Black Box == Top Secret "Magic" Self-Learning Artificial Intelligence (AI) "Gold Mine"
 
 
 ## EOS

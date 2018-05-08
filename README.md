@@ -9,7 +9,7 @@
 
 
 See [Awesome Initial Coin Offerings (ICO) Truths](https://github.com/openblockchains/awesome-ico-truths) 
-for the Scammers' Big Lies.
+about the Scammers' Big Lies.
 
 
 

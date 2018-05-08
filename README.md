@@ -1,6 +1,6 @@
-The Art of the Steal
 
-# Blockchain Whitepapers
+
+# Blockchain Whitepapers - Fiction, Fiction, Fiction - The Art of the Steal
 
 
 ![](i/trolly-cryptosplit.png)

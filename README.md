@@ -1,9 +1,17 @@
+The Art of the Steal
 
 # Blockchain Whitepapers
 
 
 ![](i/trolly-cryptosplit.png)
 ![](i/trolly-ico.png)
+
+
+
+See [Awesome Initial Coin Offerings (ICO) Truths](https://github.com/openblockchains/awesome-ico-truths) 
+for the Scammers' Big Lies.
+
+
 
 
 ## Savedroid

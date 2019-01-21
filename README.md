@@ -1,10 +1,8 @@
 
-BTC • BTG • BTD • LTC • SVD
+_Inside the New New Crypto Ponzi Economics - Fiction, Fiction, Fiction - The Art of the Steal_
 
 
 # Bitcoin & Blockchain Whitepapers 
-
-_Inside the New New Crypto Ponzi Economics - Fiction, Fiction, Fiction - The Art of the Steal_
 
 
 ## Intro / Background
@@ -35,6 +33,8 @@ about the Scammers' Big Lies.
 
 
 
+
+BTC • BTG • BTD • LTC • SVD
 
 ## 2008
 

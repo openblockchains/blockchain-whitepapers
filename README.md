@@ -16,6 +16,12 @@ about the Mother of All Scams & Bubbles and the Austrian School of Economics Cry
 and the Future of Money and the Rich Getting Richer.
 
 
+## 2008
+
+- [Bitcoin White Paper - A Peer-to-Peer Electronic Cash System](https://bitsblocks.github.io/bitcoin-whitepaper) by Satoshi Nakamoto (pseudonym), October 2008
+
+
+
 ## 2017
 
 

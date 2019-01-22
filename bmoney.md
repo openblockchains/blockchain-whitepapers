@@ -63,7 +63,7 @@ every party without producing a negative balance, otherwise the contract
 is ignored and the accounts are rolled back. A sample contract might look
 like this:
 
-K_A agrees to send K_B the solution to problem P before 0:0:0 1/1/2000.
+   K_A agrees to send K_B the solution to problem P before 0:0:0 1/1/2000.
 K_B agrees to pay K_A 100 MU (monetary units) before 0:0:0 1/1/2000. K_C
 agrees to perform arbitration in case of dispute. K_A agrees to pay a
 maximum of 1000 MU in case of default. K_B agrees to pay a maximum of 200

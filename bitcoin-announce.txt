@@ -41,3 +41,5 @@ Full paper at:
 http://www.bitcoin.org/bitcoin.pdf
 
 Satoshi Nakamoto
+
+(Source: <http://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html>)

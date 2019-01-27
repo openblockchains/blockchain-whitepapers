@@ -4,9 +4,11 @@ Four fundamental pillars form the basis of Bitcoin SV's roadmap
 to create the one blockchain for the world: 
 stability, scalability, security, and safe instant transactions (a.k.a 0-confirmation).
 
-"The existing Visa credit card network processes about 15 million Internet purchases per day worldwide. 
-Bitcoin can already scale much larger than that with existing hardware for a fraction of the cost. 
-It never really hits a scale ceiling." -- Satoshi Nakamoto (April 2009)
+> "The existing Visa credit card network processes about 15 million Internet purchases per day worldwide. 
+> Bitcoin can already scale much larger than that with existing hardware for a fraction of the cost. 
+> It never really hits a scale ceiling." 
+> 
+> -- Satoshi Nakamoto (April 2009)
 
 
 ## 1 - Stability

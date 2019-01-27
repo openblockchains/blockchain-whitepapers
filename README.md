@@ -2,13 +2,8 @@
 
 
 
-## 2008
+## Bitcoin
 
 - [Bitcoin White Paper - A Peer-to-Peer Electronic Cash System](https://bitsblocks.github.io/bitcoin-whitepaper) by Satoshi Nakamoto (pseudonym), October 2008
 
 
-
-## 2017
-
-
-## 2018
